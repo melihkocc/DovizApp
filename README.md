@@ -11,7 +11,7 @@
 · JavaScript
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./images/doviz.png)
 
 ## Contact
 📧 --> kocmelih20@gmail.com <br><br>
