@@ -2,7 +2,7 @@
  Currency app that converts currencies
  
 ## Live Demo Link
-<a href="https://melihkocc.github.io/todolist_proje/">Demo Link</a>
+<a href="https://melihkocc.github.io/DovizApp/">Demo Link</a>
 
 ## Technologies
 · HTML<br>
